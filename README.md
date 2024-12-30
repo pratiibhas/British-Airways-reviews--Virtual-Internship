@@ -52,11 +52,11 @@ Neutral: 112 reviews
 ### Visualizations
 Key insights are visualized through scatter plots:
 
-Positive Scores vs Compound Scores
-Negative Scores vs Compound Scores
-Neutral Scores vs Compound Scores
+1. Positive Scores vs Compound Scores
+2. Negative Scores vs Compound Scores
+3. Neutral Scores vs Compound Scores
 
 ### Future Enhancements
-Implement a deep learning model for sentiment analysis.
-Analyze reviews for specific topics using topic modeling.
-Expand data collection to include reviews from multiple airlines.
+- Implement a deep learning model for sentiment analysis.
+- Analyze reviews for specific topics using topic modeling.
+- Expand data collection to include reviews from multiple airlines.
